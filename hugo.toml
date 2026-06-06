@@ -1,0 +1,23 @@
+baseURL = 'https://nahco3ovo.github.io/'
+locale = 'zh-cn'
+title = 'NaHCO3 Blog'
+theme = 'stack'
+[params]
+  author = "NaHCO3"
+  description = "Welcome!"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "blog"
+    name = "博客"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    identifier = "friendlinks"
+    name = "友链"
+    url = "/friendlinks/"
+    weight = 2
