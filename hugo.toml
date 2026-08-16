@@ -1,23 +1,69 @@
 baseURL = 'https://nahco3ovo.github.io/'
 locale = 'zh-cn'
-title = 'NaHCO3 Blog'
+title = "NaHCO3's Blog"
 theme = 'stack'
+#defaultContentLanguage = "zh-cn"
+#enableInlineShortcodes = true
+#enableRobotsTXT = true 
+#paginate = 6  
+
+
+            
 [params]
-  author = "NaHCO3"
-  description = "Welcome!"
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "关于"
-    url = "/about/"
-    weight = 2
-  [[menu.main]]
-    identifier = "blog"
-    name = "博客"
-    url = "/blog/"
-    weight = 2
-  [[menu.main]]
-    identifier = "friendlinks"
-    name = "友链"
-    url = "/friendlinks/"
-    weight = 2
+    author = "NaHCO3"
+    description = "Welcome!"
+    # 站点关键词（逗号分隔）
+    keywords = ["我"]
+    
+    # 外观配置
+    defaultTheme = "light"            # 默认主题（light/ dark/ auto）
+    displayFullLangName = true        # 显示完整语言名称
+    imageProcessing = true            # 启用图片处理（压缩、裁剪等）
+    
+    # 导航栏配置（顶部菜单）
+    [params.menu]
+        main = [
+            { identifier = "home", name = "首页", url = "/", weight = 1 },
+            { identifier = "posts", name = "文章", url = "/posts/", weight = 2 },
+            { identifier = "categories", name = "分类", url = "/categories/", weight = 3 },
+            { identifier = "tags", name = "标签", url = "/tags/", weight = 4 },
+            { identifier = "about", name = "关于", url = "/about/", weight = 5 },
+        ]
+    
+    # 页脚配置
+    [params.footer]
+        enable = true
+        text = "全世界无产者们联合起来"
+        # 社交图标（支持 Github、Twitter 等，完整列表参考 Stack 文档）
+        social = [
+            { name = "Github", url = "https://github.com/nahco3ovo" },
+            { name = "Bilibili", url = "https://space.bilibili.com/1400417714" }
+        ]
+
+# 内容类型配置（Stack 主题推荐）
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+# Markdown 配置
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark]
+        [markup.goldmark.extensions]
+            definitionList = true
+            footnote = true
+            linkify = true
+            strikethrough = true
+            table = true
+            taskList = true
+            typographer = true
+    # 启用代码高亮
+    [markup.highlight]
+        codeFences = true
+        lineNos = false
+        lineNumbersInTable = false
+        noClasses = false
+
+
+

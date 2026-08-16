@@ -3,32 +3,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-06-27T02:14:29+08:00</lastmod>
+    <loc>https://nahco3ovo.github.io/</loc>
+    <lastmod>2026-08-16T13:16:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-27T02:14:29+08:00</lastmod>
+    <loc>https://nahco3ovo.github.io/posts/</loc>
+    <lastmod>2026-08-16T13:16:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/b2/</loc>
-    <lastmod>2026-06-27T02:14:29+08:00</lastmod>
+    <loc>https://nahco3ovo.github.io/posts/miss/</loc>
+    <lastmod>2026-08-16T13:16:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/friendlinks/</loc>
-    <lastmod>2026-06-07T13:33:03+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/friendlinks/friendlinks/</loc>
-    <lastmod>2026-06-07T13:33:03+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/b1/</loc>
+    <loc>https://nahco3ovo.github.io/posts/intro/</loc>
     <lastmod>2026-06-06T12:35:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-01-18T13:07:02+08:00</lastmod>
+    <loc>https://nahco3ovo.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/about/</loc>
-    <lastmod>2026-01-18T13:07:02+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://nahco3ovo.github.io/tags/</loc>
   </url>
 </urlset>
