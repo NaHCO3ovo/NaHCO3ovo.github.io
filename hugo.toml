@@ -1,10 +1,10 @@
 baseURL = 'https://nahco3ovo.github.io/'
 locale = 'zh-cn'
-title = 'NaHCO3 Blog'
+title = "NaHCO3's Blog"
 theme = 'stack'
-[params]
-  author = "NaHCO3"
-  description = "Welcome!"
+
+
+
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -12,12 +12,8 @@ theme = 'stack'
     url = "/about/"
     weight = 2
   [[menu.main]]
-    identifier = "blog"
-    name = "博客"
-    url = "/blog/"
+    identifier = "posts"
+    name = "帖子"
+    url = "/posts/"
     weight = 2
-  [[menu.main]]
-    identifier = "friendlinks"
-    name = "友链"
-    url = "/friendlinks/"
-    weight = 2
+
