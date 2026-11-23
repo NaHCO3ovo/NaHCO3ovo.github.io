@@ -1,0 +1,4 @@
+baseURL = 'https://nahco3ovo.github.io/'
+locale = 'zh-cn'
+title = "NaHCO3's Blog"
+theme = 'stack'

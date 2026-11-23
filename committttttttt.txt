@@ -1,19 +1,6 @@
-git init
 git add .
-git commit -m "first commit"
+git commit -m "init blog"
 git branch -M main
-git remote add origin {你的github仓库地址}
+git remote add origin https://github.com/nahco3ovo/nahco3ovo.github.io.git、
+# if error try -> git remote set-url origin https://github.com/nahco3ovo/nahco3ovo.github.io.git
 git push -u origin main
-
-// 拓展
-// 如果最后一行命令有问题可以先关闭ssl
-git config --global http.sslVerify false
-git push -u origin main
-// 再开启
-git config --global http.sslVerify true
-// 如果git add . 之后想取消的，可以执行git reset
-
-// 修改之后再上传
-git add .
-git commit -m "修改描述"
-git push    // 如果是团队协作，需要先新建分支，再上传合并
