@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>NaHCO3 Blog</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on NaHCO3 Blog</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 06 Jun 2026 12:35:29 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>第一篇博客</title>
+				<link>http://localhost:1313/blog/no/</link>
+				<pubDate>Sat, 06 Jun 2026 12:35:29 +0800</pubDate>
+				<guid>http://localhost:1313/blog/no/</guid>
+				<description>&lt;h1 id=&#34;天翼3g太快辣&#34;&gt;天翼3G太快辣&lt;/h1&gt;&#xA;&lt;p&gt;今天是20/26/06/06&lt;/p&gt;&#xA;&lt;p&gt;要期末考试了啊，祝自己期末RP++&lt;/p&gt;&#xA;&lt;p&gt;半年的oi时光还是让自己收获了许多的，谢谢陪我走来的所有人，虽然自己没能坚持到最后吧&lt;/p&gt;&#xA;&lt;p&gt;昨天最后一节奥赛课在机房放了纺星，虽然这个13&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt;谱面对我来说并不简单，但是这首歌真的很好听啊www&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;namespace&lt;/span&gt; std;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; endl;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;} &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;对了，我常常追忆过去已经在写了，估计过段时间会在这里和&lt;a href=&#34;https://www.cnblogs.com/na-hco3/&#34;&gt;cnblogs&lt;/a&gt;一块发&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>关于Me</title>
+				<link>http://localhost:1313/about/about/</link>
+				<pubDate>Sun, 18 Jan 2026 13:07:02 +0800</pubDate>
+				<guid>http://localhost:1313/about/about/</guid>
+				<description>&lt;p&gt;这里是NaHCO3，浅浅介绍下自己喵！&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;一个深爱早苗的&lt;del&gt;车万&lt;/del&gt;东方众&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;学过oi但是不到一年就光速AFO&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;蒟蒻音游人，不管是移动端还是街机都很菜呜呜呜&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;stg飞舞，从小学开始打stg结果上了高中还没打过&lt;del&gt;homo乡&lt;/del&gt;红魔乡N难……&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;音mad严肃学习者，没错就是一直在瞎学但是质量感人……&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/na-hco3/&#34;&gt;My_cnblogs&lt;/a&gt; &lt;a href=&#34;https://space.bilibili.com/1400417714&#34;&gt;Bilbili&lt;/a&gt; &lt;a href=&#34;https://github.com/NaHCO3ovo&#34;&gt;My_Github&lt;/a&gt; &lt;a href=&#34;https://www.luogu.com.cn/user/1863294&#34;&gt;Luogu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;哈！ 👊哈！👊哈！👊哈！👊就是、就是，这样、这样💃💃💃 哈！ 👊哈！👊哈！👊哈！👊不是、不是，那样、那样💃💃💃 一！喜欢恶作剧的阳光！☀三妖精~ 二！静谧的月光！🌙三妖精~ 三！倾注而下的星光！⭐三妖精~ SAY YA! SAY YA! SAY YA! SAY YA!哈~~~~~~~~~~~~ 三妖精 SAY YA SAY SAY YA 💃💃💃 旋转🧚♀️呐喊🗣一口气攻击吧👊👊 三妖精 SAY YA SAY SAY YA 💃💃💃 现在就攻击✊这就是胜利之战✌ 飞舞飘散吧🍃我们就是举起反旗的三妖精&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
+</rss>

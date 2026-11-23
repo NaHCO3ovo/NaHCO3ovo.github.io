@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Abouts on NaHCO3&#39;s Blog</title>
+        <link>https://nahco3ovo.github.io/about/</link>
+        <description>Recent content in Abouts on NaHCO3&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sun, 22 Nov 2026 22:27:10 +0800</lastBuildDate><atom:link href="https://nahco3ovo.github.io/about/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>My</title>
+            <link>https://nahco3ovo.github.io/about/my/</link>
+            <pubDate>Sun, 22 Nov 2026 22:27:10 +0800</pubDate>
+            <guid>https://nahco3ovo.github.io/about/my/</guid>
+            <description>&lt;h1 id=&#34;test&#34;&gt;TESt&#xD;&#xA;&lt;/h1&gt;</description>
+        </item></channel>
+</rss>

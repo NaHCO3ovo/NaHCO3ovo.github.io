@@ -1,0 +1,4 @@
+1.Update to github, but have error like this: Error: fatal: No url found for submodule path 'public' in .gitmodules ::
+   a. open cmd
+   b.git rm --cached public
+   c.hugo
